@@ -16,7 +16,7 @@
 ---
 
 ### 📊 Aktywność:
-![GitHub Commits](https://github-readme-activity-graph.vercel.app/graph?username=TwojaNazwaUzytkownika&theme=radical)
+![GitHub Commits](https://github-readme-activity-graph.vercel.app/graph?username=blon3k&theme=radical)
 
 ---
 
