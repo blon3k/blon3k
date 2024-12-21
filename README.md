@@ -15,11 +15,6 @@
 
 ---
 
-### 📊 Aktywność:
-![GitHub Commits](https://github-readme-activity-graph.vercel.app/graph?username=blon3k&theme=radical)
-
----
-
 ### 🌍 Gdzie mnie znaleźć:
 - 🌐 [Portfolio](https://blonek.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/antoni-blonkowski-59199931a/)
