@@ -1,9 +1,7 @@
 # 👋 Cześć, jestem Antek!
 
 ### 🚀 O mnie:
-- 🏗️ Tworzę startup [FindAlikeMe](https://findalike.me) – platformę łączącą ludzi z podobnymi problemami, aby mogli się wspierać w ich najtrudniejszych momentach.
-- 💡 Pasjonuję się budowaniem innowacyjnych projektów
-- 🌱 Zawsze poszukuję nowych wyzwań i możliwości nauki, rozwijając swoje umiejętności programistyczne i biznesowe.
+-Antek 16yo MERN stack dev
 
 ---
 
