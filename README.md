@@ -1,6 +1,6 @@
-# 👋 Cześć, jestem Antek!
+# 👋 Cześć,
 
-### 🚀 O mnie:
+### 🚀 Info:
 -Antek 16yo MERN stack dev
 
 ---
